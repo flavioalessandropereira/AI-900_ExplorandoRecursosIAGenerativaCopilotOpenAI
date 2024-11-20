@@ -61,6 +61,15 @@ def calculate_sum(a, b):
 ```
 
 ---
+### Comando:  
+Crie uma imagem divertida de um sanduíche cujo recheio é um elefante africano.
+
+#### Resultado:  
+
+[Imagem Elefante](./output/sanduicheElefante.png)
+<img src="./output/sanduicheElefante.png" width="400" alt="Imagem divertida de um sanduíche com recheio de elefante africano">
+
+
 
 ## 💡 Dicas e Boas Práticas
 
